@@ -1,0 +1,14 @@
+Settings:
+A1 -4
+A2 0
+A3 4
+A4 true
+A5 false
+A6 "hello"
+A7 ""
+A8 "\"hello\""
+A9 =(SUM A2 A3)
+A10 =(PRODUCT A1 A3)
+A11 =(< A2 A3)
+A12 =(REPEAT A6 A3)
+A13 =A1

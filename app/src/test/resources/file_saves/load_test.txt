@@ -1,0 +1,6 @@
+Settings: 
+A1 2
+AZ1 =(SUM A120 4)
+A120 =(SUM A1 4)
+C8 true
+B5 "hello"

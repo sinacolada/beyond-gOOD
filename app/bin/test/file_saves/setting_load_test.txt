@@ -1,0 +1,6 @@
+Settings: A|0.45 AS|4.34 W|4.13 
+A1 2
+AZ1 =(SUM A120 4)
+A120 =(SUM A1 4)
+C8 true
+B5 "hello"
